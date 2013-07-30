@@ -17,9 +17,9 @@ int i,len,k,j,x,ex;
 a[1]=1;len=2;
 for(i=2;i<101;i++)
 {
-for(x=len-1;x>0;x--)
+/*for(x=len-1;x>0;x--)
 printf("%d",a[x]);
-printf("\n");
+printf("\n");*/
 ex=0;
 for(j=1;j<len;j++)
 {
